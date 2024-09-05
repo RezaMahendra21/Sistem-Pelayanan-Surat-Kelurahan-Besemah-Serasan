@@ -1,0 +1,56 @@
+  .img-user{
+  	width: 100px;
+  }
+
+  table .btn{
+  	margin: 0px !important;
+  }
+
+  .btn-primary{
+  	background: #006df0;
+  	color: white !important;
+  	border: 1px solid #006df0;
+  }
+
+  .btn-primary:hover{
+  	background: #0062d9;
+  	border: 1px solid #0062d9;
+  }
+
+  .panel-heading{
+   padding: 20px 15px;
+   border-bottom: 1px solid #ececec;
+ }
+
+
+ .sidebar-nav .metismenu a {
+  position: relative;
+  display: block;
+  padding: 13px 15px;
+  color: #000;
+  outline-width: 0;
+  transition: all .3s ease-out;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.sidebar-nav .metismenu a > .icon-wrap {
+  font-size: 20px;
+  margin-right: 11px;
+}
+
+#sidebar{
+	border-right: 1px solid #eee;
+}
+
+.footer-copyright-area{
+	margin-top: 100px;
+}
+
+.all-content-wrapper {
+    min-height: 500px;
+}
+
+td{
+  vertical-align: middle !important;
+}
