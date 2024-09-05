@@ -1,5 +1,5 @@
 # Sistem Pelayanan Surat Kelurahan Besemah Serasan
-Rancang Bangun Sistem Pelayanan Surat Kelurahan Besemah Serasan Kota Pagar Alam, menggunakan Php, dan MySql. <br>
+Rancang Bangun Sistem Pelayanan Surat Kelurahan Besemah Serasan Kota Pagar Alam, menggunakan framework bootstrap <br>
 
 <h2>Reza Mahendra</h2>
 <br>
