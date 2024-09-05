@@ -1,7 +1,7 @@
 # Sistem Pelayanan Surat Kelurahan Besemah Serasan
 Rancang Bangun Sistem Pelayanan Surat Kelurahan Besemah Serasan Kota Pagar Alam, menggunakan framework bootstrap <br>
 
-<h2>Reza Mahendra</h2>
+<h2>Author By Reza Mahendra</h2>
 <br>
 <h3>Tampilan Aplikasi:</h3><br>
 <p>Halaman Utama</p>
